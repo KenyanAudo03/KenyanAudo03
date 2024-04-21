@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KenyanAudo03
+- 👋 Hi, I’m @VictorOwino
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, html, css, java and javascript
 - 💞️ I’m looking to collaborate on a music/ video player
